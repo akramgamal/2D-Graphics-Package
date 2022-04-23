@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610329547 source:e:\codeforces\project graphics\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<tchar.h>
+	<windows.h>
+
+1610789074 source:c:\users\dell\desktop\project graphics\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<tchar.h>
+	<windows.h>
+
